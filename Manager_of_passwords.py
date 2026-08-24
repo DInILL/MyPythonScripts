@@ -61,3 +61,4 @@ while (answer != "4"):
         print("Bye bye")
     else:
         answer = input("Please enter a valid answer!")
+        continue
